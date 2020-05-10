@@ -1,4 +1,4 @@
-# 面向初学者的微积分
+# MIT 18.03 面向初学者的微积分
 
 > 原文：[Calculus for Beginners and Artists](http://math.mit.edu/~djk/calculus_beginners/index.html)
 > 
